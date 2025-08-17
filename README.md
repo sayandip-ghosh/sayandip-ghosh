@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Cloud Computing
 - 🌱 I’m currently learning: Linux and DevOps
 - 📫 How to reach me: mrsayandip@gmail.com
-- ⚡ Tech Stack: C/JAVA, JavaScript, MERN Stack
+- ⚡ Tech Stack: C/JAVA, JavaScript, MERN Stack, React Native
  
 
 <!---
